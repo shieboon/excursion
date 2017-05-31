@@ -12,3 +12,6 @@ body {
   text-size: 16px;
   color: Aquamarine;
 }
+video {
+  animation-iteration-count: infinite;
+}
